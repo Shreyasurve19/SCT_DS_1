@@ -9,15 +9,15 @@ A small sample dataset for the year 2023 was created and visualized using Excel.
 📁 Dataset
 Age-Group	Population
 
- 0–20	       50
- 21–40	     70
- 41–60	     40
- 60+	       20
+ 0–14	      338
+ 15–40	     655
+ 41–60	     312
+ 60+	       123
 
 
 📈 Chart
 A bar chart was created to show the population distribution across age groups.
 
 📂 Files
-task 1.xlsx (Population Data)
-TASK 1_IMG.jpg (Chart)
+TASK-1.xlsx (Population Data)
+TASK-1_CHART.jpg (Chart)
